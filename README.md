@@ -19,16 +19,6 @@
 
 <br>
 
-<div align=center>
-  <h3> 📄 Certificate 📄 </h3>
-  
-  | Date | Certificate | Organization |
-  |:---:|:---:|:---:|
-  | 2022.02.02 | AWS Certified Cloud Practitioner | AWS |
-  | 2021.12.31 | 리눅스마스터 2급 | 한국정보통신진흥협회 (KAIT) |
-  | 2021.11.26 | 정보처리기사 | 한국산업인력공단 |
-  | 2021.10.01 | SQL 개발자 (SQLD) | 한국데이터산업진흥원 |
-</div>
 
 
   
