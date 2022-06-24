@@ -18,8 +18,8 @@
 
 <div align=center>
   <h3> 📒 TIL 📒 </h3>
-  [Today I Learned]<https://rogue-afternoon-ad9.notion.site/TIL-36b851a760144cb9bee84b44d75692dc>
- </div>
+  <a href="https://rogue-afternoon-ad9.notion.site/TIL-36b851a760144cb9bee84b44d75692dc"> Today I Learned </a>
+</div>
  
 <br>
 
