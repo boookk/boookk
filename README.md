@@ -1,8 +1,7 @@
 <div align=center>
   <h2> 🏃‍ boookk 💦 </h2>
   
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=boookk)](https://solved.ac/boookk)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=boookk)](https://solved.ac/boookk)
 </div>
 
 <br>
@@ -19,7 +18,7 @@
 
 <div align=center>
   <h3> 📒 TIL 📒 </h3>
-  [Today I Learned](https://rogue-afternoon-ad9.notion.site/TIL-36b851a760144cb9bee84b44d75692dc)
+  [Today I Learned]<https://rogue-afternoon-ad9.notion.site/TIL-36b851a760144cb9bee84b44d75692dc>
  </div>
  
 <br>
